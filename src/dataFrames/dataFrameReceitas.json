@@ -1,0 +1,57 @@
+[
+    {
+        "Ano": "2012",
+        "Receita_Prevista": 501914.88,
+        "Receita_Arrecadada": 499074.94
+    },
+    {
+        "Ano": "2013",
+        "Receita_Prevista": 372472.06,
+        "Receita_Arrecadada": 683241.76
+    },
+    {
+        "Ano": "2014",
+        "Receita_Prevista": 481407.82,
+        "Receita_Arrecadada": 3326471.79
+    },
+    {
+        "Ano": "2015",
+        "Receita_Prevista": 463866.76,
+        "Receita_Arrecadada": 1373337.6200000001
+    },
+    {
+        "Ano": "2016",
+        "Receita_Prevista": 2532560.0600000001,
+        "Receita_Arrecadada": 2941031.2400000002
+    },
+    {
+        "Ano": "2017",
+        "Receita_Prevista": 458171.6,
+        "Receita_Arrecadada": 653995.53
+    },
+    {
+        "Ano": "2018",
+        "Receita_Prevista": 514113.93,
+        "Receita_Arrecadada": 575171.5699999999
+    },
+    {
+        "Ano": "2019",
+        "Receita_Prevista": 569130.5,
+        "Receita_Arrecadada": 641693.26
+    },
+    {
+        "Ano": "2020",
+        "Receita_Prevista": 523130.27,
+        "Receita_Arrecadada": 611595.63
+    },
+    {
+        "Ano": "2021",
+        "Receita_Prevista": 551698.0,
+        "Receita_Arrecadada": 1673690.8
+    },
+    {
+        "Ano": "2022",
+        "Receita_Prevista": 1695839.25,
+        "Receita_Arrecadada": 795812.12
+    }
+]

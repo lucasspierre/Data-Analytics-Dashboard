@@ -1,0 +1,30 @@
+[
+    {
+        "Vinculo": "Comissionado",
+        "Quantidade": 4172
+    },
+    {
+        "Vinculo": "Efetivo",
+        "Quantidade": 1915
+    },
+    {
+        "Vinculo": "Estagiário",
+        "Quantidade": 254
+    },
+    {
+        "Vinculo": "Exercício Provisório",
+        "Quantidade": 1
+    },
+    {
+        "Vinculo": "Parlamentar",
+        "Quantidade": 82
+    },
+    {
+        "Vinculo": "Requisitado",
+        "Quantidade": 83
+    },
+    {
+        "Vinculo": "Terceirizados",
+        "Quantidade": 2966
+    }
+]

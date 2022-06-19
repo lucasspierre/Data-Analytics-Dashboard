@@ -1,0 +1,26 @@
+[
+    {
+        "Grupo_Despesa": "Amortizacao Da Divida",
+        "Quantidade": 3
+    },
+    {
+        "Grupo_Despesa": "Investimentos",
+        "Quantidade": 82
+    },
+    {
+        "Grupo_Despesa": "Juros E Encargos Da Divida",
+        "Quantidade": 4
+    },
+    {
+        "Grupo_Despesa": "Outras Despesas Correntes",
+        "Quantidade": 310
+    },
+    {
+        "Grupo_Despesa": "Pessoal E Encargos Sociais",
+        "Quantidade": 92
+    },
+    {
+        "Grupo_Despesa": "Reserva De Contingencia",
+        "Quantidade": 5
+    }
+]
