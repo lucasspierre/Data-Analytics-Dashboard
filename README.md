@@ -14,3 +14,5 @@ Desenvolvido para plotar dados em uma aplicação Front-end, abastecida a partir
 - Python
 - Pandas
 - JSON
+
+https://data-analytics-dashboard.netlify.app/
